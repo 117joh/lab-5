@@ -66,3 +66,15 @@ nav li {
     width: 95%;
     height: 50%;
 }
+
+
+img {
+
+}
+
+/* Style rules for mobile viewport */
+
+
+/* Hide tab-desk class */
+.tab-desk {
+    display: none; }
